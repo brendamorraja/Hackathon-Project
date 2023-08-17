@@ -1,4 +1,4 @@
-    # Hackathon Project
+# Boehringer Hackathon Project
 
 ![phone](phone.jpg)
 
