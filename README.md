@@ -1,5 +1,7 @@
 # Boehringer Hackathon Project
 
+![phone](phone.jpg)
+
 **" La depresión es ser daltónico y que te digan constantemente lo colorido que es el mundo. "**
 
 ## Introducción
